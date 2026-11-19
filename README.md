@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Ficha 5 — Cartas novas
 
 ## API
@@ -17,3 +18,7 @@ O primeiro pedido é o OPTIONS, enviado automaticamente pelo browser para verifi
 ## Pergunta 4
 
 Na primeira versão, a carta nova existia apenas no estado do React (setCards), sendo apagada ao atualizar a página com F5. Na segunda versão, a carta ficava guardada no array do servidor, mas desaparecia quando o servidor era reiniciado. Na terceira versão, a carta passou a ser guardada no ficheiro cartas.json, mantendo-se mesmo depois de reiniciar o servidor.
+=======
+# tarefa4
+# tarefa4
+>>>>>>> origin/main
